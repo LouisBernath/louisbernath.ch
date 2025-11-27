@@ -1,2 +1,2 @@
-# www.bernath.li
-Web Page for bernath.li
+# www.louisbernath.ch
+Web Page for Louis Bernath.
